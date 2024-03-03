@@ -1,0 +1,1 @@
+# c-avg-of-array
